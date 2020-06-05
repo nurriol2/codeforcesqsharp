@@ -1,8 +1,6 @@
 # codeforcesqsharp #
 Summer 2020 Codeforces Quantum Computing Competition
 
-# Studying from Quantum Katas #
-
 ## Tutorials ##
 - ~~Complex arithmetic~~
 - ~~Linear algebra~~
@@ -16,7 +14,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 ## Katas ##
 ### Quantum computing concepts ###
 - ~~basic quantum computing gates~~
-- Superposition
+- ~~Superposition~~ **(!)**
 - Measurements
 - Joint measurements
 
