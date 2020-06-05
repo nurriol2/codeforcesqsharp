@@ -8,7 +8,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 - ~~Single-qubit gates~~
 - ~~Multi-qubit systems~~
 - ~~Multi-qubit gates~~
-- Exploring Deutsch–Jozsa algorithm
+- ~~Exploring Deutsch–Jozsa algorithm~~
 - Exploring Grover's search algorithm
 
 ## Katas ##
