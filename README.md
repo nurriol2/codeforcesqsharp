@@ -34,7 +34,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 - GHZ game
 - Mermin-Peres magic square game
 
-### Reversible computing ###\
+### Reversible computing ###
 - Truth tables
 - Ripple-carry adder
 
