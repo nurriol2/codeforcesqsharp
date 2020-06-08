@@ -21,7 +21,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 ### Simple algorithms ###
 - Teleportation
 - Superdense coding
-- Deutsch-Josza algorithm
+- ~~Deutsch-Josza algorithm~~
 - Simon's algorithm
 
 ### Grover's algorithm ###
