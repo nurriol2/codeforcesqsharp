@@ -16,7 +16,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 - ~~basic quantum computing gates~~
 - ~~Superposition~~ **(!)**
 - ~~Measurements~~
-- Joint measurements
+- ~~Joint measurements~~
 
 ### Simple algorithms ###
 - Teleportation
