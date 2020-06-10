@@ -15,7 +15,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 ### Quantum computing concepts ###
 - ~~basic quantum computing gates~~
 - ~~Superposition~~ **(!)**
-- Measurements
+- ~~Measurements~~
 - Joint measurements
 
 ### Simple algorithms ###
