@@ -25,7 +25,7 @@ Summer 2020 Codeforces Quantum Computing Competition
 - Simon's algorithm
 
 ### Grover's algorithm ###
-- Grover's algorithm
+- ~~Grover's algorithm~~
 - Solving SAT problem using Grover's algorithm
 - Solving graph coloring problems using Grover's algorithm
 
